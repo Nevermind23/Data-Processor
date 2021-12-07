@@ -1,0 +1,21 @@
+{
+    "name": "nevermind23/data-processor",
+    "type": "project",
+    "description": "A simple csv data processor.",
+    "keywords": ["csv", "data processor"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "classmap": ["Engine"]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
