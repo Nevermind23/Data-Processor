@@ -4,8 +4,13 @@
 
 This tool is made to simply rewrite csv data from one format to another.
 
+## TODO
+* Add validator class
+
 ## Requirement
 Csv files must have headers
+
+PHP 7.4+
 
 ## Installation
 
